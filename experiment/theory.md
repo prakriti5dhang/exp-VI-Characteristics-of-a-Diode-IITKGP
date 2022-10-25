@@ -24,7 +24,7 @@ The positive terminal of battery is connected to the P side(anode) and the negat
 <p>Figure 3  </p>
 </div>
 
-Function of a P-N junction diode in Reverse Bias
+### Function of a P-N junction diode in Reverse Bias
 
 The positive terminal of battery is connected to the N side(cathode) and the negative terminal of battery is connected to the P side(anode) of a diode. Therefore, very little current will flow until the diode breaks down.
 
