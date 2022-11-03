@@ -100,6 +100,8 @@ When n=2, the value of $$\frac{kT}{q}$$ becomes 52 mV. For germanium diodes, n i
 
 **Complete Diode Model:** This is use during the actual design of circuits using diodes.
 
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
 <!--## Assignment
 
 1. Derive the ideal current-voltage relationship for a pn junction diode.Explain the procedure that is used in deriving the ideal current-voltage relationship in a pn junction diode.
